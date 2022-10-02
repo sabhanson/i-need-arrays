@@ -1,0 +1,24 @@
+{
+  "name": "i-need-arrays",
+  "version": "1.0.0",
+  "description": "visual guide to help understand array methods",
+  "main": "psuedo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabhanson/i-need-arrays.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabhanson/i-need-arrays/issues"
+  },
+  "homepage": "https://github.com/sabhanson/i-need-arrays#readme",
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "express": "^4.18.1"
+  }
+}
